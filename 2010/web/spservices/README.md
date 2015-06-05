@@ -1,0 +1,2 @@
+#SharePoint 2010 SPServices Sample Code
+The code in these pages should be copied directly into the source of a Content Editor Web Part (CEWP). If you wish to include the code in a masterpage, you must remove the generic wrapper around the javascript code, but leave any essential DOM elements.
